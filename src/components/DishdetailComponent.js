@@ -33,9 +33,10 @@ class DishdetailComponent extends Component{
                         </CardBody>
                     </Card>
                     <div className="col-15 col-md-5 m-1">
+                        <h3>comments</h3>
                     <ul className="list-unstyled">
                     {comments}
-                  </ul>
+                    </ul>
                   </div>
                   </div>
                   </div>
